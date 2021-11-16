@@ -1,1 +1,1 @@
-Developing night mode feature in an ereader
+Developing night mode feature in an ereader.
